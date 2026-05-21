@@ -9,9 +9,13 @@ I sit at the intersection of quality engineering and product delivery — hands-
 ## Tech I work with
 
 **Test Automation:** Playwright, Cypress, Appium, k6, Locust
+
 **Mobile:** Flutter, Swift, SwiftUI, Kotlin
+
 **Web:** Next.js, React, TypeScript, Node.js
+
 **Infrastructure:** AWS, Cloudflare, CI/CD pipelines
+
 **Other:** Cucumber, REST/GraphQL API testing, accessibility & security testing
 
 ## Side projects
