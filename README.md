@@ -17,7 +17,9 @@ I sit at the intersection of quality engineering and product delivery — hands-
 ## Side projects
 
 🏠 **[Snaggit](https://snaggitapp.com)** — A snagging app for UK new-build homebuyers
+
 🍽️ **[YourMealPlan](https://yourmealplan.co.uk)** — AI-generated meal plans
+
 📆 **Peacock Bookings** — A modern, B2B bookings platform. Coming soon!
 
 ## Get in touch
