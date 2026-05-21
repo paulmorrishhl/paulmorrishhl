@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @paulmorrishhl
-- 👀 I’m interested in automation and automated testing. I have a background in mobile app development for various platforms using technologies like the iOS SDk, Objective-C, Swift, SwiftUI, Flutter, Dart, and more...
-- 🌱 I’m currently heavily involved in web automation using tools/frameworks/libraries/languages like Playwright, Cypress, CucumberJS, Node.js, JavaScript.
-- 💞️ I’m looking to collaborate on ... I love to talk all things automation and mobile app develpment.
-- 📫 How to reach me: If you need me, and if you can find me, maybe you can call.....@paulmorrishhl on Twitter
+# Hey, I'm Paul 👋
 
-<!---
-paulmorrishhl/paulmorrishhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A passionate software and digital leader from Newcastle, UK. I build things, break things, and ship things.
+
+## What I do
+
+I sit at the intersection of quality engineering and product delivery — hands-on with code, strategic with teams. My background spans mobile development, test automation, and leading engineering teams across SaaS, consultancy, and healthcare. 
+
+## Tech I work with
+
+**Test Automation:** Playwright, Cypress, Appium, k6, Locust
+**Mobile:** Flutter, Swift, SwiftUI, Kotlin
+**Web:** Next.js, React, TypeScript, Node.js
+**Infrastructure:** AWS, Cloudflare, CI/CD pipelines
+**Other:** Cucumber, REST/GraphQL API testing, accessibility & security testing
+
+## Side projects
+
+🏠 **[Snaggit](https://snaggitapp.com)** — A snagging app for UK new-build homebuyers
+🍽️ **[YourMealPlan](https://yourmealplan.co.uk)** — AI-generated meal plans
+📆 **Peacock Bookings** — A modern, B2B bookings platform. Coming soon!
+
+## Get in touch
+
+💼 [LinkedIn](https://linkedin.com/in/paulmorrishhl)  
+🌐 [pauldmorris.uk](https://pauldmorris.uk)
