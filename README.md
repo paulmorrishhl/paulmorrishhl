@@ -83,6 +83,16 @@ Includes automated plan generation, payments and a growing set of free nutrition
 
 ---
 
+### ✅ [Intentions](https://meetintentions.com)
+
+A lightweight todo and task planner that respects your time.
+
+A day is a finite amount of time, not an infinite list. Intentions lets you know when your day is full and helps you work out what fits.
+
+`Flutter` `In-app Subscription` `Privacy-focused`
+
+---
+
 ### 📆 Peacock Bookings
 
 A modern B2B booking and scheduling platform designed around businesses that need more flexibility than a generic appointment calendar.
